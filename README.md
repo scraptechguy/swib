@@ -1,3 +1,2 @@
-# Swib
+# Swift client library for Microsoft Azure
 
-A description of this package.
